@@ -2,7 +2,7 @@
   "GuideDataXXX": {
     "AdsControllerXXX": 
       {
-        "BannerAd": "admob",
+        "BannerAd": "unity",
 		"InterstitialAd": "max",
         "NativeAd": "admob",
 		
