@@ -1,0 +1,137 @@
+{
+  "GuideDataXXX": {
+    "AdsControllerXXX": 
+      {
+        "BannerAd": "max",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmobXXX": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmobXXX": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmobXXX": "ca-app-pub-3940256099942544/2247696110",
+		"maxBannerXXX": "6db1491f2e21970c",
+		"maxInterstitialXXX": "812b82d9e0c7cb7f",
+		"maxNativeXXX": "64ea2f2ef41edb34",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_bannerXXX": "banner",
+		"unity_interstitialXXX": "video",
+
+        "ImageBannerXXX": false,
+        "ImageBannerXXXImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerXXXURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "Dark Meadow: The Pact",
+        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
+        "color": "#000000",
+        "text_size": "17",
+        "isLink": false,
+		"link_title": "Get Coins",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
+        "text": "sdsdasdsdasd ssa dadas dasd",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "The Old 2",
+        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+		"color": "#000000",
+        "text_size": "17",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Call of Cthulhu: Wasted Land ",
+        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
+		"color": "#000000",
+        "text_size": "17",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Dead Space Android",
+        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
+		"color": "#000000",
+        "text_size": "17",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Bloody Mary",
+        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+		"color": "#000000",
+        "text_size": "17",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Twisted Lands: Shadow Town",
+        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+		"color": "#000000",
+        "text_size": "17",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Dead Space Android",
+        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
+        "color": "#000000",
+        "text_size": "17",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+        "background": "#FFFFFF"
+      },
+      {
+        "title": "Twisted Lands: Shadow Town",
+        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+        "color": "#000000",
+        "text_size": "17",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+        "background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
