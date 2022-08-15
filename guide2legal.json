@@ -1,42 +1,42 @@
 {
-  "GuideDatadriving": {
-    "AdsControllerdriving": 
+  "GuideDataswiming": {
+    "AdsControllerswiming": 
       {
-        "BannerAd": "admob",
-		"InterstitialAd": "admob",
-        "NativeAd": "admob",
+        "BannerAd": "max",
+		"InterstitialAd": "max",
+        "NativeAd": "max",
 		
-		"BannerAdmobdriving": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmobdriving": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmobdriving": "ca-app-pub-3940256099942544/2247696110",
-		"maxBannerdriving": "6db1491f2e21970c",
-		"maxInterstitialdriving": "812b82d9e0c7cb7f",
-		"maxNativedriving": "64ea2f2ef41edb34",
+		"BannerAdmobswiming": "",
+        "InterstitialAdmobswiming": "",
+        "NativeAdmobswiming": "",
+		"maxBannerswiming": "6db1491f2e21970c",
+		"maxInterstitialswiming": "812b82d9e0c7cb7f",
+		"maxNativeswiming": "64ea2f2ef41edb34",
 		
 		"ironsource_appKey": "1011dee21",
 		
 		"unity_game_id": "3883855",
 		"unity_test": true,
-		"unity_bannerdriving": "banner",
-		"unity_interstitialdriving": "video",
+		"unity_bannerswiming": "banner",
+		"unity_interstitialswiming": "video",
 
-        "ImageBannerdriving": false,
-        "ImageBannerdrivingImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-        "ImageBannerdrivingURL" : "https://www.google.com"
+        "ImageBannerswiming": false,
+        "ImageBannerswimingImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerswimingURL" : "https://www.google.com"
 		
       },
 
     "items": [
       {
-        "title": "How to drive your car",
-        "image": "https://content.instructables.com/ORIG/F2I/04AJ/ISCBKTNT/F2I04AJISCBKTNT.png",
+        "title": "Learn to Swim by Yourself!",
+        "image": "https://img.livestrong.com/630x/clsd/getty/eb5c48fbb1234ac29fb6dda9c51a9398.jpg",
         "color": "#000000",
         "text_size": "17",
         "isLink": false,
         "link_title": "",
         "setLink": "",
         "image_link": "",
-        "text": "Step 1: Ensure You're in Neutral.  Place your car into the neutral gear by moving the gear selector into the center of the shift boot. In order to verify that your car in truly in neutral, wiggle the stickshifter around and see if it moves freely. If it doesn't move very freely, ensure that the gear selector is truly in the middle or not. Verifying that it is, we can move onto our next step.      Step 2: Place Your Foot Onto the Clutch Pedal    Now that our vehicle is in it's neutral gear, we may move onto our next step of starting the manual transmission for use. In order to start a manual transmission vehicle, your left foot must press the clutch pedal fully to the cars floor. This is a safety feature that's in most modern day vehicles - to ensure less accidents. That being said, depress the clutch pedal fully and move onto the next step.   Step 3: Safety Check   Verifying that the car is in neutral by moving the gear selector to the middle of the stickshift boot, wiggling the gear selector back and fourth and checking to see if the stickshifter moves freely and also verifying that the clutch pedal is pressed all the way to the floor, we may continue to our next step.   Step 4: Seek Out the Ignition    In order to start the vehicle, you must locate the ignition. They're most commonly located right next to the steering column. Certain vehicles have push-to-start features, so be aware to check your owners manual if you're not sure where your vehicles ignition is located.    Step 5: Turn the Ignition Halfway  In order to start the vehicle, you must turn the ignition to the halfway position to allow all the vehicles sensors to take their readings.   Step 6: Turn the Vehicle On  With your foot on the clutch pedal fully, your gear selector in the neutral position, you may turn the vehicles engine over and start the vehicle up.   Step 7: Disengage the Handbrake/parking Brake    Step 8: Prepare Yourself for Rolling Forwards.  Step 9: Place Foot Onto Clutch Fully   Step 10: Move Gear Selector Into It's First Gear.     ",
+        "text": "How to do breaststroke \n 1. Float with your face in the water, your body straight and horizontal. Stack your hands and keep your arms and legs long.\n 2. Point your thumbs down. Press your hands out and back in a circle, elbows high. Lift your head slightly and inhale.\n 3. Bring your hands together in front of your shoulders, thumbs pointing up. Keep your elbows close to your body. Simultaneously bend your knees, bringing your feet toward your butt and pointing your feet outward. Reach your arms forward. Kick out and back in a circle then snap your feet together. Drop your head underwater and exhale. Glide forward and repeat.\n How to do butterfly \n Float with your face in the water, your body straight and horizontal.\n Stack your hands and keep your arms and legs long. Send your head down and forward and push your hips up. Next, move your head up and push your hips down. Continue alternating like a wave. When your head goes down, follow with your hips and kick.\n Send your arms down and past your hips. Simultaneously lift your head to inhale. Kick and continue the body wave, sending your arms up and across the water.\n Put your face in the water and follow with your arms. Exhale. This completes one arm cycle. Repeat. Breathe once every two or three cycles.\n How to do freestyle \n Float with your face in the water, your body straight and horizontal. Stack your hands and keep your arms and legs long. To do the flutter kick, move one foot up and one foot down. Alternate quickly, keeping your ankles loose and knees slightly bent.\n Reach your right hand 12 to 18 inches ahead, palm facing down and in line with your shoulder. Pull your right hand down and back, pointing your fingers diagonally toward the bottom.\n Point your elbow upward. As your right hand passes your thigh, rotate your hip and shoulder upward. Bring your hand up and across the water. Enter your right hand in the water and repeat with your left hand. Repeat.\n Breathe every two or three strokes as your hand exits the water.",
         "isNative": false,
         "background": "#FFFFFF"
       }
