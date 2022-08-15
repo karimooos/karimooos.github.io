@@ -1,28 +1,28 @@
 {
-  "GuideDataXXX": {
-    "AdsControllerXXX": 
+  "GuideDatadriving": {
+    "AdsControllerdriving": 
       {
         "BannerAd": "admob",
 		"InterstitialAd": "admob",
         "NativeAd": "admob",
 		
-		"BannerAdmobXXX": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmobXXX": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmobXXX": "ca-app-pub-3940256099942544/2247696110",
-		"maxBannerXXX": "6db1491f2e21970c",
-		"maxInterstitialXXX": "812b82d9e0c7cb7f",
-		"maxNativeXXX": "64ea2f2ef41edb34",
+		"BannerAdmobdriving": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmobdriving": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmobdriving": "ca-app-pub-3940256099942544/2247696110",
+		"maxBannerdriving": "6db1491f2e21970c",
+		"maxInterstitialdriving": "812b82d9e0c7cb7f",
+		"maxNativedriving": "64ea2f2ef41edb34",
 		
 		"ironsource_appKey": "1011dee21",
 		
 		"unity_game_id": "3883855",
 		"unity_test": true,
-		"unity_bannerXXX": "banner",
-		"unity_interstitialXXX": "video",
+		"unity_bannerdriving": "banner",
+		"unity_interstitialdriving": "video",
 
-        "ImageBannerXXX": false,
-        "ImageBannerXXXImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-        "ImageBannerXXXURL" : "https://www.google.com"
+        "ImageBannerdriving": false,
+        "ImageBannerdrivingImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerdrivingURL" : "https://www.google.com"
 		
       },
 
