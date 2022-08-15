@@ -1,0 +1,46 @@
+{
+  "GuideDatadriving": {
+    "AdsControllerdriving": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmobdriving": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmobdriving": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmobdriving": "ca-app-pub-3940256099942544/2247696110",
+		"maxBannerdriving": "6db1491f2e21970c",
+		"maxInterstitialdriving": "812b82d9e0c7cb7f",
+		"maxNativedriving": "64ea2f2ef41edb34",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_bannerdriving": "banner",
+		"unity_interstitialdriving": "video",
+
+        "ImageBannerdriving": false,
+        "ImageBannerdrivingImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerdrivingURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "How to drive your car",
+        "image": "https://content.instructables.com/ORIG/F2I/04AJ/ISCBKTNT/F2I04AJISCBKTNT.png",
+        "color": "#000000",
+        "text_size": "17",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "Step 1: Ensure You're in Neutral.  Place your car into the neutral gear by moving the gear selector into the center of the shift boot. In order to verify that your car in truly in neutral, wiggle the stickshifter around and see if it moves freely. If it doesn't move very freely, ensure that the gear selector is truly in the middle or not. Verifying that it is, we can move onto our next step.      Step 2: Place Your Foot Onto the Clutch Pedal    Now that our vehicle is in it's neutral gear, we may move onto our next step of starting the manual transmission for use. In order to start a manual transmission vehicle, your left foot must press the clutch pedal fully to the cars floor. This is a safety feature that's in most modern day vehicles - to ensure less accidents. That being said, depress the clutch pedal fully and move onto the next step.   Step 3: Safety Check   Verifying that the car is in neutral by moving the gear selector to the middle of the stickshift boot, wiggling the gear selector back and fourth and checking to see if the stickshifter moves freely and also verifying that the clutch pedal is pressed all the way to the floor, we may continue to our next step.   Step 4: Seek Out the Ignition    In order to start the vehicle, you must locate the ignition. They're most commonly located right next to the steering column. Certain vehicles have push-to-start features, so be aware to check your owners manual if you're not sure where your vehicles ignition is located.    Step 5: Turn the Ignition Halfway  In order to start the vehicle, you must turn the ignition to the halfway position to allow all the vehicles sensors to take their readings.   Step 6: Turn the Vehicle On  With your foot on the clutch pedal fully, your gear selector in the neutral position, you may turn the vehicles engine over and start the vehicle up.   Step 7: Disengage the Handbrake/parking Brake    Step 8: Prepare Yourself for Rolling Forwards.  Step 9: Place Foot Onto Clutch Fully   Step 10: Move Gear Selector Into It's First Gear.     ",
+        "isNative": false,
+        "background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
